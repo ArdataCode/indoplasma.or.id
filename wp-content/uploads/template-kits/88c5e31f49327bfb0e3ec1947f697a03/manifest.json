@@ -1,0 +1,2849 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Mediway",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 1",
+            "screenshot": "screenshots\/header-style-1.jpg",
+            "source": "templates\/header-style-1.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/header-style-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 2",
+            "screenshot": "screenshots\/header-style-2.jpg",
+            "source": "templates\/header-style-2.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/header-style-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style 1",
+            "screenshot": "screenshots\/footer-style-1.jpg",
+            "source": "templates\/footer-style-1.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/footer-style-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style 2",
+            "screenshot": "screenshots\/footer-style-2.jpg",
+            "source": "templates\/footer-style-2.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/footer-style-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version One",
+            "screenshot": "screenshots\/home-version-one.jpg",
+            "source": "templates\/home-version-one.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/home-version-one\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version Two",
+            "screenshot": "screenshots\/home-version-two.jpg",
+            "source": "templates\/home-version-two.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/home-version-two\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version Three",
+            "screenshot": "screenshots\/home-version-three.jpg",
+            "source": "templates\/home-version-three.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/home-version-three\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version Four",
+            "screenshot": "screenshots\/home-version-four.jpg",
+            "source": "templates\/home-version-four.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/home-version-four\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Treatments",
+            "screenshot": "screenshots\/treatments.jpg",
+            "source": "templates\/treatments.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/treatments\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Treatment Two",
+            "screenshot": "screenshots\/treatment-two.jpg",
+            "source": "templates\/treatment-two.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/treatment-two\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Details",
+            "screenshot": "screenshots\/blog-details.jpg",
+            "source": "templates\/blog-details.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/blog-details\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Home-page-3 Form",
+            "screenshot": "screenshots\/metform-home-page-3-form.jpg",
+            "source": "templates\/metform-home-page-3-form.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/metform-home-page-3-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Treatment Form",
+            "screenshot": "screenshots\/metform-treatment-form.jpg",
+            "source": "templates\/metform-treatment-form.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/metform-treatment-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Footer Form",
+            "screenshot": "screenshots\/metform-footer-form.jpg",
+            "source": "templates\/metform-footer-form.json",
+            "preview_url": "https:\/\/mediway.radiantthemes.com\/template-kit\/metform-footer-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.0",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.5",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.8.4",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.4",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Image Hover Effects - Elementor Addon",
+            "version": "1.3.4",
+            "file": "image-hover-effects-addon-for-elementor\/image-hover-effects-addon-for-elementor.php",
+            "author": "Blocksera"
+        },
+        {
+            "name": "LA-Studio Element Kit for Elementor",
+            "version": "1.0.3.2",
+            "file": "lastudio-element-kit\/lastudio-element-kit.php",
+            "author": "LA-Studio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "location.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/location.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-1.json",
+                    "name": "Header Style 1"
+                }
+            ],
+            "filesize": 312,
+            "dimensions": [
+                10,
+                16
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/pin_503080?term=location&page=1&position=33&page=1&position=33&related_id=503080&origin=search"
+        },
+        {
+            "filename": "mail.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/mail.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-1.json",
+                    "name": "Header Style 1"
+                }
+            ],
+            "filesize": 323,
+            "dimensions": [
+                18,
+                13
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/mail_546394?term=message&page=1&position=31&page=1&position=31&related_id=546394&origin=search"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-1.json",
+                    "name": "Header Style 1"
+                },
+                {
+                    "source": "templates\/header-style-2.json",
+                    "name": "Header Style 2"
+                },
+                {
+                    "source": "templates\/footer-style-1.json",
+                    "name": "Footer Style 1"
+                },
+                {
+                    "source": "templates\/footer-style-2.json",
+                    "name": "Footer Style 2"
+                }
+            ],
+            "filesize": 2555,
+            "dimensions": [
+                162,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-one-banner-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-one-banner-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 24394,
+            "dimensions": [
+                785,
+                550
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-one-banner-2-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-one-banner-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 76732,
+            "dimensions": [
+                411,
+                573
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/trustworthy-proud-old-medical-professional-doctor--EHB43MT"
+        },
+        {
+            "filename": "box-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/box-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 28295,
+            "dimensions": [
+                390,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/blue-medical-composition-RBUH3DZ"
+        },
+        {
+            "filename": "box-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/box-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 75647,
+            "dimensions": [
+                390,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/hands-of-a-small-newborn-baby-hold-on-to-fingers-WF4E87G"
+        },
+        {
+            "filename": "box-3.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/box-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 93854,
+            "dimensions": [
+                390,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/medical-tools-and-thermometer-gun-on-blue-backgrou-3KGXH95"
+        },
+        {
+            "filename": "doctor01.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/doctor01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 36795,
+            "dimensions": [
+                600,
+                421
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/patient-complaints-health-protection-and-visit-to--C96XQHZ"
+        },
+        {
+            "filename": "strock.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/strock-800x459.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 22679,
+            "dimensions": [
+                1123,
+                645
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 83695,
+            "dimensions": [
+                470,
+                599
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/doctor-lady-smiling-at-camera-standing-over-gray-s-DWYVZ9W"
+        },
+        {
+            "filename": "heart.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/heart.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                }
+            ],
+            "filesize": 2463,
+            "dimensions": [
+                75,
+                53
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/pulse_4473579?term=heart&page=5&position=21&page=5&position=21&related_id=4473579&origin=search"
+        },
+        {
+            "filename": "kidney.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/kidney.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                }
+            ],
+            "filesize": 2369,
+            "dimensions": [
+                55,
+                55
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/kidney_4200937?term=kidney&page=1&position=20&page=1&position=20&related_id=4200937&origin=search"
+        },
+        {
+            "filename": "icon-3.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                }
+            ],
+            "filesize": 2925,
+            "dimensions": [
+                61,
+                57
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/infected_3782561?term=pulmonary&page=1&position=36&page=1&position=36&related_id=3782561&origin=search"
+        },
+        {
+            "filename": "icon-4.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                }
+            ],
+            "filesize": 2754,
+            "dimensions": [
+                72,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/uterus_819025?related_id=819025"
+        },
+        {
+            "filename": "icon-5.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                }
+            ],
+            "filesize": 2061,
+            "dimensions": [
+                46,
+                53
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/dental-care_3063002?term=dental&page=1&position=25&page=1&position=25&related_id=3063002&origin=search"
+        },
+        {
+            "filename": "icon-6.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                }
+            ],
+            "filesize": 1487,
+            "dimensions": [
+                53,
+                53
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/pregnancy-test_1529712?term=pregnancy&page=2&position=38&page=2&position=38&related_id=1529712&origin=search"
+        },
+        {
+            "filename": "icon-7.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                }
+            ],
+            "filesize": 2270,
+            "dimensions": [
+                55,
+                54
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/invalid_4470587?term=disabled&page=2&position=2&page=2&position=2&related_id=4470587&origin=search"
+        },
+        {
+            "filename": "icon-8.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                }
+            ],
+            "filesize": 2457,
+            "dimensions": [
+                52,
+                53
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/newborn_3790497?term=birth&page=1&position=11&page=1&position=11&related_id=3790497&origin=search"
+        },
+        {
+            "filename": "testi-01.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/testi-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 7526,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/smiling-man-with-beard-PTCNFPZ"
+        },
+        {
+            "filename": "testi-02.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/testi-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 7894,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/happy-stylish-girl-posing-and-smiling-GN5LRVB"
+        },
+        {
+            "filename": "home-two-banner-right-3.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-two-banner-right-3-800x246.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 83568,
+            "dimensions": [
+                1920,
+                590
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/doctor-working-with-diverse-patients-in-hospital-d-Z9TGJ2C"
+        },
+        {
+            "filename": "home-two-banner-bg.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-two-banner-bg-800x433.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 39100,
+            "dimensions": [
+                1089,
+                590
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 496,
+            "dimensions": [
+                21,
+                35
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/mobile-phone_545245?term=phone&page=1&position=27&page=1&position=27&related_id=545245&origin=search"
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1583,
+            "dimensions": [
+                37,
+                37
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/clock_4004124?term=time&page=4&position=47&page=4&position=47&related_id=4004124&origin=search"
+        },
+        {
+            "filename": "icon.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1159,
+            "dimensions": [
+                27,
+                35
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/location_2684764?term=location&page=1&position=28&page=1&position=28&related_id=2684764&origin=search"
+        },
+        {
+            "filename": "image.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 60819,
+            "dimensions": [
+                600,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/doctor-using-stethoscope-for-auscultate-asian-gran-BRMSSNE"
+        },
+        {
+            "filename": "icon-3-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1709,
+            "dimensions": [
+                39,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/thermometer_2100230?term=thermometer&page=1&position=4&page=1&position=4&related_id=2100230&origin=search"
+        },
+        {
+            "filename": "icon-4-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 2306,
+            "dimensions": [
+                64,
+                61
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/stethoscope_809957?term=doctor&page=1&position=6&page=1&position=6&related_id=809957&origin=search"
+        },
+        {
+            "filename": "icon-5-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-5-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1514,
+            "dimensions": [
+                53,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/headphones_862909?related_id=862909"
+        },
+        {
+            "filename": "icon-6-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-6-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 795,
+            "dimensions": [
+                28,
+                28
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/blood-sample_1062447?term=blood%20sample&page=2&position=82&page=2&position=82&related_id=1062447&origin=search"
+        },
+        {
+            "filename": "icon-7-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-7-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 893,
+            "dimensions": [
+                28,
+                28
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/heart-rate-monitor_1424581?related_id=1424581"
+        },
+        {
+            "filename": "Mask-Group1.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/Mask-Group1-800x518.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 106254,
+            "dimensions": [
+                945,
+                612
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/medical-staff-discussing-treatment-N8XGXP6"
+        },
+        {
+            "filename": "icon-8-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-8-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 2140,
+            "dimensions": [
+                40,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/oxygen_1097933?term=oxygen&page=1&position=66&page=1&position=66&related_id=1097933&origin=search"
+        },
+        {
+            "filename": "icon-10.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1869,
+            "dimensions": [
+                45,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/allergies_1546052?term=fungus&page=1&position=1&page=1&position=1&related_id=1546052&origin=search"
+        },
+        {
+            "filename": "icon-9.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-9.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 2019,
+            "dimensions": [
+                36,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/pressure-gauge_2299296?term=pressure&page=1&position=3&page=1&position=3&related_id=2299296&origin=search"
+        },
+        {
+            "filename": "icon-11.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1904,
+            "dimensions": [
+                52,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/lung_1546081?term=lung&page=1&position=14&page=1&position=14&related_id=1546081&origin=search"
+        },
+        {
+            "filename": "team-01.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/team-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 15093,
+            "dimensions": [
+                285,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/professional-practitioner-QCZQTXH"
+        },
+        {
+            "filename": "team-04.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/team-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 14390,
+            "dimensions": [
+                285,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/covid-19-preventing-virus-healthcare-workers-and-v-DMX5V8N"
+        },
+        {
+            "filename": "team-03.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/team-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 14896,
+            "dimensions": [
+                285,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/young-smiling-female-doctor-with-stethoscope-and-f-E6Z7ZL5"
+        },
+        {
+            "filename": "team-02.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/team-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 17255,
+            "dimensions": [
+                285,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/covid-19-coronavirus-disease-healthcare-workers-co-CEBBLB4"
+        },
+        {
+            "filename": "Group-12.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/Group-12.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 29103,
+            "dimensions": [
+                612,
+                612
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 21405,
+            "dimensions": [
+                110,
+                110
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/young-women-wash-hands-with-handwashing-gel-B9NBNR2"
+        },
+        {
+            "filename": "image-3.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 20136,
+            "dimensions": [
+                110,
+                110
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/doctor-checking-young-man-39-s-temperature-with-di-K3CGHF9"
+        },
+        {
+            "filename": "image-middle-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-middle-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 101485,
+            "dimensions": [
+                274,
+                274
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/cute-girl-wearing-mask-SHNH6NH"
+        },
+        {
+            "filename": "image-4.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 18711,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/young-people-wearing-face-mask-using-mobile-smartp-ZNJ4H4G"
+        },
+        {
+            "filename": "home-three-banner.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-three-banner-800x249.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 175679,
+            "dimensions": [
+                1920,
+                597
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/female-patient-whitening-procedure-dental-clinic-P5NWUGE"
+        },
+        {
+            "filename": "phone-icon.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/phone-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 422,
+            "dimensions": [
+                18,
+                31
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/mobile-phone_545245?term=phone&page=1&position=29&page=1&position=29&related_id=545245&origin=search"
+        },
+        {
+            "filename": "icon-12.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-12.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 829,
+            "dimensions": [
+                34,
+                39
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/calendar_1574479?term=booking&page=1&position=10&page=1&position=10&related_id=1574479&origin=search"
+        },
+        {
+            "filename": "icon-1-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 1562,
+            "dimensions": [
+                38,
+                38
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/clock-time_3210067?term=timing&page=1&position=69&page=1&position=69&related_id=3210067&origin=search"
+        },
+        {
+            "filename": "icon-2-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 1417,
+            "dimensions": [
+                38,
+                37
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/piggy-bank_584093?term=piggy%20bank&page=1&position=2&page=1&position=2&related_id=584093&origin=search"
+        },
+        {
+            "filename": "icon-3-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-3-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 1315,
+            "dimensions": [
+                36,
+                36
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/dentist-chair_893967?term=dentist%20chair&page=1&position=11&page=1&position=11&related_id=893967&origin=search"
+        },
+        {
+            "filename": "icon-4-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-4-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 1055,
+            "dimensions": [
+                38,
+                37
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/teeth_1328940?term=teeth&page=6&position=59&page=6&position=59&related_id=1328940&origin=search"
+        },
+        {
+            "filename": "bg.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/bg.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 7236,
+            "dimensions": [
+                285,
+                530
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "tooth.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/tooth.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 51017,
+            "dimensions": [
+                285,
+                169
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/white-teeth-JDDZPVH"
+        },
+        {
+            "filename": "bg-effect.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/bg-effect.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 3561,
+            "dimensions": [
+                600,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "girl.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/girl.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 87800,
+            "dimensions": [
+                600,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/face-of-a-young-smiling-asian-woman-with-braces-on-K54Y9DC"
+        },
+        {
+            "filename": "icon-5-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-5-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 1256,
+            "dimensions": [
+                36,
+                36
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/tooth_993344?term=white%20teeth&page=1&position=1&page=1&position=1&related_id=993344"
+        },
+        {
+            "filename": "icon-6-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-6-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 1411,
+            "dimensions": [
+                36,
+                36
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/tooth-brush_3124658?term=teeth%20cleaning&page=1&position=63&page=1&position=63&related_id=3124658&origin=search"
+        },
+        {
+            "filename": "image01.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image01-800x630.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 61494,
+            "dimensions": [
+                915,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/boy-wearing-eyewear-taking-dental-treatment-3LT6CHW"
+        },
+        {
+            "filename": "icon-7-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-7-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 1421,
+            "dimensions": [
+                39,
+                35
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/support_966830?term=dental%20support&page=1&position=1&page=1&position=1&related_id=966830&origin=search"
+        },
+        {
+            "filename": "icon-8-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-8-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 1597,
+            "dimensions": [
+                28,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/money-bag_5227826?term=dollar&page=1&position=83&page=1&position=83&related_id=5227826&origin=search"
+        },
+        {
+            "filename": "icon-9-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-9-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 1645,
+            "dimensions": [
+                29,
+                36
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/medal_3176271?term=awards&page=1&position=2&page=1&position=2&related_id=3176271&origin=search"
+        },
+        {
+            "filename": "icon-10-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-10-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 1254,
+            "dimensions": [
+                35,
+                36
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/call-center-agent_5218427?term=support&page=1&position=80&page=1&position=80&related_id=5218427&origin=search"
+        },
+        {
+            "filename": "image-2.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 153566,
+            "dimensions": [
+                495,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/caries-removal-procedure-children-stomatology-H2ZESXA"
+        },
+        {
+            "filename": "image-3.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 149586,
+            "dimensions": [
+                495,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/young-contemporary-dentist-showing-dental-x-ray-in-GLFQM27"
+        },
+        {
+            "filename": "image-4.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 101415,
+            "dimensions": [
+                495,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/dentist-holds-fake-plastic-teeths-65C7A2F"
+        },
+        {
+            "filename": "bg-effect-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/bg-effect-2-800x199.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 42266,
+            "dimensions": [
+                1918,
+                478
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-5.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-5-800x490.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 65528,
+            "dimensions": [
+                1230,
+                753
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/portrait-of-professional-dentist-and-little-boy-in-GDVCGRY"
+        },
+        {
+            "filename": "home-four-banner.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/home-four-banner-800x299.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 160492,
+            "dimensions": [
+                1920,
+                717
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/depressed-man-ZUN69A4"
+        },
+        {
+            "filename": "icon.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 2024,
+            "dimensions": [
+                48,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/son_2880750?term=kids&page=1&position=52&page=1&position=52&related_id=2880750&origin=search"
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 2454,
+            "dimensions": [
+                53,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/brother_2829874?related_id=2829874"
+        },
+        {
+            "filename": "icon-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 2466,
+            "dimensions": [
+                46,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/mad_479505?term=mad&page=1&position=26&page=1&position=26&related_id=479505&origin=search"
+        },
+        {
+            "filename": "icon-3.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 2156,
+            "dimensions": [
+                54,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/holding-hands_4150282?term=relationship&page=1&position=3&page=1&position=3&related_id=4150282&origin=search"
+        },
+        {
+            "filename": "Group-21.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/Group-21-800x301.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 22488,
+            "dimensions": [
+                1492,
+                561
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-6.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 256545,
+            "dimensions": [
+                600,
+                466
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/session-on-couch-FHYVB5J"
+        },
+        {
+            "filename": "bg-effect.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/bg-effect-800x635.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 23946,
+            "dimensions": [
+                875,
+                694
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 95868,
+            "dimensions": [
+                528,
+                694
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/serious-professional-XDP2UA3"
+        },
+        {
+            "filename": "icon-4.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 2144,
+            "dimensions": [
+                49,
+                53
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/stress_1207924?term=mental%20stress&page=1&position=9&page=1&position=9&related_id=1207924&origin=search"
+        },
+        {
+            "filename": "icon-5.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 2473,
+            "dimensions": [
+                51,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/depression_2233937?term=depression&page=1&position=29&page=1&position=29&related_id=2233937&origin=search"
+        },
+        {
+            "filename": "icon-6.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 2585,
+            "dimensions": [
+                51,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/rings_3656885?term=marriage&page=1&position=43&page=1&position=43&related_id=3656885&origin=search"
+        },
+        {
+            "filename": "icon-7.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 1939,
+            "dimensions": [
+                44,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/fever_3358333?term=anxiety&page=1&position=9&page=1&position=9&related_id=3358333&origin=search"
+        },
+        {
+            "filename": "icon-8.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 1748,
+            "dimensions": [
+                45,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/communication_3820107?term=counseling&page=1&position=13&page=1&position=13&related_id=3820107&origin=search"
+        },
+        {
+            "filename": "icon-9.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-9.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 2418,
+            "dimensions": [
+                53,
+                51
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-1.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image-section-1-800x167.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 109138,
+            "dimensions": [
+                1920,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/sick-woman-talking-with-doctor-online-via-laptop-a-DHMJAXS"
+        },
+        {
+            "filename": "icon-10.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 1446,
+            "dimensions": [
+                35,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/storm_3269462?term=stress&page=1&position=7&page=1&position=7&related_id=3269462&origin=search"
+        },
+        {
+            "filename": "icon-11.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                },
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 1906,
+            "dimensions": [
+                44,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/calendar_2693507?term=schedule&page=1&position=3&page=1&position=3&related_id=2693507&origin=search"
+        },
+        {
+            "filename": "icon-12.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-12.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 1903,
+            "dimensions": [
+                44,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/operator_271045?term=counseling&page=1&position=10&page=1&position=10&related_id=271045&origin=search"
+        },
+        {
+            "filename": "icon-13.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-13.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 526,
+            "dimensions": [
+                26,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/mobile-phone_545245?term=phone&page=1&position=23&page=1&position=23&related_id=545245&origin=search"
+        },
+        {
+            "filename": "icon-14.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-14.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 900,
+            "dimensions": [
+                45,
+                31
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/mail_546394?term=message&page=1&position=31&page=1&position=31&related_id=546394&origin=search"
+        },
+        {
+            "filename": "icon-15.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-15.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 1257,
+            "dimensions": [
+                29,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/pin_503080?term=location&page=1&position=31&page=1&position=31&related_id=503080&origin=search"
+        },
+        {
+            "filename": "Group-22.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/Group-22.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                },
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 11989,
+            "dimensions": [
+                608,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about-banner.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/about-banner.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 71957,
+            "dimensions": [
+                317,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/consultations-with-doctors-and-portrait-of-female--K3NQPH8"
+        },
+        {
+            "filename": "image-7.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 246692,
+            "dimensions": [
+                600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/deciding-patient-treatment-6VEFKBE"
+        },
+        {
+            "filename": "line.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/line-800x29.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1164,
+            "dimensions": [
+                982,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-section.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/1-section.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 59138,
+            "dimensions": [
+                285,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/veterinarian-in-clinics-3RC8TLG"
+        },
+        {
+            "filename": "2-section.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/2-section.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 65977,
+            "dimensions": [
+                285,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/patient-pov-in-dental-chair-making-periodic-teeth--BA87NYQ"
+        },
+        {
+            "filename": "3-section.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/3-section.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 66301,
+            "dimensions": [
+                285,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/young-woman-treating-teeth-in-clinic-stock-photo-7AQMN3G"
+        },
+        {
+            "filename": "4-section.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/4-section.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 71739,
+            "dimensions": [
+                285,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/patient-doctor-online-consultation-JQSZSNV"
+        },
+        {
+            "filename": "image-section-1-1.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image-section-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 164169,
+            "dimensions": [
+                570,
+                369
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/woman-at-doctor-XDC3DYU"
+        },
+        {
+            "filename": "icon-16.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-16.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2566,
+            "dimensions": [
+                53,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/doctor_1021799?term=doctor&page=1&position=6&page=1&position=6&related_id=1021799&origin=search"
+        },
+        {
+            "filename": "icon-17.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-17.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2119,
+            "dimensions": [
+                61,
+                61
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/medical_3079219?term=treatments&page=1&position=1&page=1&position=1&related_id=3079219&origin=search"
+        },
+        {
+            "filename": "icon-18.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-18.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2603,
+            "dimensions": [
+                44,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/badge_1534216?term=quality&page=1&position=6&page=1&position=6&related_id=1534216&origin=search"
+        },
+        {
+            "filename": "icon-19.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-19.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3022,
+            "dimensions": [
+                59,
+                59
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/service_1687055?term=service&page=1&position=9&page=1&position=9&related_id=1687055&origin=search"
+        },
+        {
+            "filename": "pricing-banner.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/pricing-banner.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 106683,
+            "dimensions": [
+                296,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/doctor-holding-a-stethoscope-isolated-on-white-M6VGMK4"
+        },
+        {
+            "filename": "treatments-banner.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/treatments-banner.png",
+            "templates": [
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                }
+            ],
+            "filesize": 91974,
+            "dimensions": [
+                270,
+                291
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/doctor-GH2BLHD"
+        },
+        {
+            "filename": "image-8.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                }
+            ],
+            "filesize": 245357,
+            "dimensions": [
+                570,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/mature-doctor-explaning-x-ray-GQ7WHAU"
+        },
+        {
+            "filename": "image-9-1.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image-9-1-800x370.jpg",
+            "templates": [
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                }
+            ],
+            "filesize": 77584,
+            "dimensions": [
+                1230,
+                569
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/pregnant-woman-in-a-hospital-AYR94Y6"
+        },
+        {
+            "filename": "image-section-2.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image-section-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/treatments.json",
+                    "name": "Treatments"
+                }
+            ],
+            "filesize": 143521,
+            "dimensions": [
+                600,
+                331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/portrait-of-young-happy-doctor-in-the-doctors-offi-LVRPNVP"
+        },
+        {
+            "filename": "image.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image.png",
+            "templates": [
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 82461,
+            "dimensions": [
+                317,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/professional-dentist-office-R3KRS5Q"
+        },
+        {
+            "filename": "icon-20.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-20.png",
+            "templates": [
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 2242,
+            "dimensions": [
+                48,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/teeth_2523882?term=teeth&page=2&position=94&page=2&position=94&related_id=2523882&origin=search"
+        },
+        {
+            "filename": "icon-1-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 2965,
+            "dimensions": [
+                48,
+                49
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/canal_1732064?term=root%20canal&page=1&position=25&page=1&position=25&related_id=1732064&origin=search"
+        },
+        {
+            "filename": "icon-2-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 1421,
+            "dimensions": [
+                33,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/implant_4147462?term=teeth&page=2&position=33&page=2&position=33&related_id=4147462&origin=search"
+        },
+        {
+            "filename": "icon-3-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 1719,
+            "dimensions": [
+                46,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/cap_3738883?term=teeth%20caps&page=1&position=5&page=1&position=5&related_id=3738883&origin=search"
+        },
+        {
+            "filename": "bg-effect-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/bg-effect-1-800x730.png",
+            "templates": [
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 25274,
+            "dimensions": [
+                1920,
+                1753
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-Group-4.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/Mask-Group-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 182498,
+            "dimensions": [
+                600,
+                348
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/repairing-tooth-EEBYC32"
+        },
+        {
+            "filename": "Mask-Group-5.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/Mask-Group-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 188708,
+            "dimensions": [
+                600,
+                348
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/tooth-color-chart-4YGJFF5"
+        },
+        {
+            "filename": "image-10.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image-10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 213796,
+            "dimensions": [
+                600,
+                348
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/dentist-drilling-teeth-DX2JTHU"
+        },
+        {
+            "filename": "icon-4-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 1478,
+            "dimensions": [
+                35,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/storm_3269462?term=stress&page=1&position=7&page=1&position=7&related_id=3269462&origin=search"
+        },
+        {
+            "filename": "icon-6-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-6-1.png",
+            "templates": [
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 1939,
+            "dimensions": [
+                44,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/operator_271045?term=counseling&page=1&position=10&page=1&position=10&related_id=271045&origin=search"
+        },
+        {
+            "filename": "Mask-Group-2-1.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/Mask-Group-2-1-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/treatment-two.json",
+                    "name": "Treatment Two"
+                }
+            ],
+            "filesize": 66925,
+            "dimensions": [
+                1230,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/smiling-female-patient-on-chair-dental-clinic-S85DN6R"
+        },
+        {
+            "filename": "corona-image-1.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/corona-image-1.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 12248,
+            "dimensions": [
+                117,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "corona-image-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/corona-image-2.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 8388,
+            "dimensions": [
+                90,
+                86
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "middle-section.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/middle-section.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 64996,
+            "dimensions": [
+                603,
+                321
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image-2.png",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 76418,
+            "dimensions": [
+                284,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/cheerful-doctor-5BJKRS7"
+        },
+        {
+            "filename": "image-18.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image-18-800x362.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 270162,
+            "dimensions": [
+                885,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/consultations-with-doctors-and-portrait-of-female--K3NQPH8"
+        },
+        {
+            "filename": "blog-single-video.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/blog-single-video-800x358.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 283835,
+            "dimensions": [
+                885,
+                396
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/caries-removal-procedure-children-stomatology-H2ZESXA"
+        },
+        {
+            "filename": "image-2.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/image-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 16452,
+            "dimensions": [
+                104,
+                104
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/smiling-man-with-beard-PTCNFPZ"
+        },
+        {
+            "filename": "arrow-right.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/arrow-right.png",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 164,
+            "dimensions": [
+                7,
+                9
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-Group-2.jpg",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/Mask-Group-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 47324,
+            "dimensions": [
+                285,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/medical-mask-and-medicines-on-blue-background-FTJJQGH"
+        },
+        {
+            "filename": "contact-banner.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/contact-banner.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 151016,
+            "dimensions": [
+                398,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/two-male-doctors-having-informal-meeting-in-modern-NK9Q7ZY"
+        },
+        {
+            "filename": "icon-21.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-21.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 1368,
+            "dimensions": [
+                35,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/pin_927667?term=location&page=1&position=8&page=1&position=8&related_id=927667&origin=search"
+        },
+        {
+            "filename": "icon-1-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-1-2.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 741,
+            "dimensions": [
+                35,
+                25
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/mail_546394?term=message&page=1&position=30&page=1&position=30&related_id=546394&origin=search"
+        },
+        {
+            "filename": "icon-2-2.png",
+            "thumbnail_url": "http:\/\/mediway.radiantthemes.com\/wp-content\/uploads\/2021\/08\/icon-2-2.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 524,
+            "dimensions": [
+                25,
+                43
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/mobile-phone_545245?term=phone&page=1&position=26&page=1&position=26&related_id=545245&origin=search"
+        }
+    ]
+}

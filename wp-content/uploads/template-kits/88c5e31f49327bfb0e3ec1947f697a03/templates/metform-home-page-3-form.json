@@ -1,0 +1,175 @@
+{
+    "version": "0.4",
+    "title": "Metform Home-page-3 Form",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-contact",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "22bf43d7",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "1d41aad2",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "1e99a412",
+                            "settings": {
+                                "mf_input_label_status": "",
+                                "mf_input_label": "Name",
+                                "mf_input_name": "mf-text",
+                                "mf_input_placeholder": "Name",
+                                "mf_input_validation_warning_message": "This field is required.",
+                                "mf_input_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "mf_input_background_background": "classic",
+                                "mf_input_background_color": "#FAFAFA",
+                                "__globals__": {
+                                    "mf_input_color": "globals\/colors?id=primary",
+                                    "mf_input_placeholder_color": "globals\/colors?id=primary",
+                                    "mf_input_place_holder_typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "mf-text",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "12f84391",
+                            "settings": {
+                                "mf_input_label_status": "",
+                                "mf_input_label": "Phone",
+                                "mf_input_name": "mf-telephone",
+                                "mf_input_placeholder": "Telephone",
+                                "mf_input_validation_warning_message": "This field is required.",
+                                "mf_input_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "mf_input_background_background": "classic",
+                                "mf_input_background_color": "#FAFAFA",
+                                "__globals__": {
+                                    "mf_input_color": "globals\/colors?id=primary",
+                                    "mf_input_placeholder_color": "globals\/colors?id=primary",
+                                    "mf_input_place_holder_typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "mf-telephone",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "34b5482a",
+                            "settings": {
+                                "mf_input_label_status": "",
+                                "mf_input_label": "Email",
+                                "mf_input_name": "mf-email",
+                                "mf_input_placeholder": "Email",
+                                "mf_input_validation_warning_message": "This field is required.",
+                                "mf_input_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "mf_input_background_background": "classic",
+                                "mf_input_background_color": "#FAFAFA",
+                                "__globals__": {
+                                    "mf_input_color": "globals\/colors?id=primary",
+                                    "mf_input_placeholder_color": "globals\/colors?id=primary",
+                                    "mf_input_place_holder_typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "mf-email",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6f9555ab",
+                            "settings": {
+                                "mf_input_label_status": "",
+                                "mf_input_label": "Date",
+                                "mf_input_name": "mf-date",
+                                "mf_input_placeholder": "Date",
+                                "mf_input_validation_warning_message": "This field is required.",
+                                "mf_input_disable_date_list": [],
+                                "mf_input_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "mf_input_background_background": "classic",
+                                "mf_input_background_color": "#FAFAFA",
+                                "__globals__": {
+                                    "mf_input_color": "globals\/colors?id=primary",
+                                    "mf_input_placeholder_color": "globals\/colors?id=primary",
+                                    "mf_input_place_holder_typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "mf-date",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "35a2b067",
+                            "settings": {
+                                "mf_btn_text": "Book An Appointment ",
+                                "mf_hidden_input": [],
+                                "mf_btn_align": "justify",
+                                "mf_btn_bg_color_background": "classic",
+                                "mf_btn_box_shadow_group_box_shadow_type": "yes",
+                                "mf_btn_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 10,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0)"
+                                },
+                                "__globals__": {
+                                    "mf_btn_bg_color_color": "globals\/colors?id=410aa4f",
+                                    "mf_btn_text_color": "globals\/colors?id=5244b49",
+                                    "mf_btn_typography_typography": "globals\/typography?id=13c8d7d"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "mf-button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

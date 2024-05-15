@@ -1,0 +1,4 @@
+[29-Feb-2024 01:40:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/indoplasma.or.id/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/indoplasma.or.id/wp-includes/SimplePie/Core.php on line 53

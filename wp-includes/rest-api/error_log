@@ -1,0 +1,4 @@
+[29-Feb-2024 01:42:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/indoplasma.or.id/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/indoplasma.or.id/wp-includes/rest-api/class-wp-rest-response.php on line 17
